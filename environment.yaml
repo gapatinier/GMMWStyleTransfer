@@ -1,0 +1,14 @@
+name: gmmst
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch=1.10
+  - torchvision
+  - numpy=1.21
+  - matplotlib=3.4
+  - pip
+  - scikit-learn
+  - pot
